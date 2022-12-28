@@ -810,7 +810,7 @@ export const Home = () => {
                 </div>
             </div>
             {
-                userstate && <Grade user={userstate} cumulative_credit={data[user.department]['cumulative_credit']} />
+                userstate && <Grade semester = {user.semester} user={userstate} cumulative_credit={data[user.department]['cumulative_credit']} />
             }
         </>
 
