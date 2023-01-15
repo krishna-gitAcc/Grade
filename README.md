@@ -1,7 +1,8 @@
 
 # Grade Calculator
 
-Grade Calculator is a simple and elegant CGPA Calculator made using React.js, that can be used to calculate CGPA quickly. It has courses of all Departments of IITG.
+– Developed a React App for IIT Guwahati students, where students can calculate their SPI and CPI.
+– Used React to develop the UI of the application.
 
 The Project is live at [link](https://grade-calculator.onrender.com/).
 
