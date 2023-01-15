@@ -1,7 +1,9 @@
 
-# Grade Calculator Getting Started with Create React App
+# Grade Calculator
 
 Grade Calculator is a simple and elegant CGPA Calculator made using React.js, that can be used to calculate CGPA quickly. It has courses of all Departments of IITG.
+
+The Project is live at [link](https://grade-calculator.onrender.com/).
 
 
 
