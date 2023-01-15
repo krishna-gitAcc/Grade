@@ -7,7 +7,7 @@ Grade Calculator is a simple and elegant CGPA Calculator made using React.js, th
 
 
 
-# asdGetting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
